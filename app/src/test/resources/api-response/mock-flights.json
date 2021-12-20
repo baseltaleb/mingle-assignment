@@ -1,0 +1,20 @@
+[
+  {
+    "airlineId": "1",
+    "flightNumber": 1,
+    "departureAirportId": "A",
+    "arrivalAirportId": "B"
+  },
+  {
+    "airlineId": "2",
+    "flightNumber": 2,
+    "departureAirportId": "B",
+    "arrivalAirportId": "C"
+  },
+  {
+    "airlineId": "3",
+    "flightNumber": 3,
+    "departureAirportId": "C",
+    "arrivalAirportId": "A"
+  }
+]

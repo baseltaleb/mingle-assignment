@@ -1,0 +1,26 @@
+[
+  {
+    "id": "A",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "name": "Airport A",
+    "city": "City A",
+    "countryId": "A"
+  },
+  {
+    "id": "B",
+    "latitude": 1.1,
+    "longitude": 1.1,
+    "name": "Airport B",
+    "city": "City B",
+    "countryId": "B"
+  },
+  {
+    "id": "C",
+    "latitude": 180.0,
+    "longitude": 180.0,
+    "name": "Airport C",
+    "city": "City C",
+    "countryId": "C"
+  }
+]

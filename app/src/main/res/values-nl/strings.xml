@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basel Assignment</string>
+
+    <string name="distance_unit_abbreviation_km">km.</string>
+    <string name="distance_unit_abbreviation_ml">mi.</string>
+
+    <string name="map_screen_title">Map</string>
+    <string name="airport_list_screen_title">Airports</string>
+    <string name="settings_screen_title">Settings</string>
+
+    <string name="tabs_map_title">@string/map_screen_title</string>
+    <string name="tabs_airports_title">@string/airport_list_screen_title</string>
+    <string name="tabs_settings_title">@string/settings_screen_title</string>
+
+    <string name="airport_details_airport_id">Luchthavens id</string>
+    <string name="airport_details_city">Stad</string>
+    <string name="airport_details_country">Land</string>
+    <string name="airport_details_latitude">Breedtegraad</string>
+    <string name="airport_details_longitude">Lengtegraad</string>
+    <string name="airport_details_nearest_airport">Dichtstbijzijnde luchthaven</string>
+
+    <string name="settings_language_button_title">Taal</string>
+    <string name="settings_distance_unit_button_title">Afstandseenheid</string>
+
+    <string name="loading_data">Data ophalen</string>
+    <string name="internet_connection_error">Controleer je internetverbinding</string>
+    <string name="retry">Opnieuw proberen</string>
+
+</resources>
